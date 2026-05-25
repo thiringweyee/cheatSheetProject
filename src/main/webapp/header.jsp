@@ -256,7 +256,7 @@ UserBean user = (UserBean) session.getAttribute("user");
 <a href="HomeServlet">
 
         <i class="fa fa-home"></i>
-        java
+        Home
 
     </a>
 
