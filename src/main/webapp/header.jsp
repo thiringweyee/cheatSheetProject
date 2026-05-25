@@ -330,7 +330,7 @@ if(user == null){
     <button onclick="location.href='register.jsp'">
 
         <i class="fa fa-user-plus"></i>
-        Register
+        Regis
 
     </button>
 
