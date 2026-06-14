@@ -155,7 +155,7 @@ body{
         </div>
     </c:if>
 
-    <h1 class="category-title">Browse Categories</h1>
+    <h1 class="category-title">Browse Cat</h1>
     <p class="category-subtitle">
         Explore cheat sheets by category and improve your skills.
     </p>
